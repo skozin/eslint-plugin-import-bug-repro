@@ -1,0 +1,6 @@
+{
+  "name": "@my-scope/package-a",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js"
+}
