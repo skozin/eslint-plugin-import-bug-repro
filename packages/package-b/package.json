@@ -4,6 +4,6 @@
   "license": "MIT",
   "dependencies": {
     "@my-scope/package-a": "^1.0.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
